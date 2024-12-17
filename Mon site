@@ -1,0 +1,12 @@
+mon-site/
+├── index.html         (Fichier principal HTML)
+├── style.css          (Fichier CSS pour le style)
+├── script.js          (Fichier JavaScript si nécessaire)
+└── images/            (Dossier contenant les images)
+    └── logo.png       (Ton logo, par exemple nommé "logo.png")
+mon-site/
+├── index.html         (Ton fichier HTML principal)
+├── style.css          (Ton fichier de styles CSS)
+├── script.js          (Ton fichier JavaScript, si tu en as besoin)
+└── images/            (Un dossier contenant les images, par exemple ton logo)
+    └── logo.png       (Un exemple de fichier image pour le logo)
